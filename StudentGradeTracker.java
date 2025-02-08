@@ -1,4 +1,4 @@
-package internship;
+
 import java.util.*;
 public class StudentGradeTracker {
     public static void main(String[] args) {
